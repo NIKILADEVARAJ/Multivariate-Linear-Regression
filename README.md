@@ -1,4 +1,4 @@
-# Implementation of Multivariate Linear Regression
+![WhatsApp Image 2024-12-12 at 6 16 45 PM](https://github.com/user-attachments/assets/79c7d9ef-9a86-4170-9feb-b2eff48c0dda)# Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -42,7 +42,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ### Insert your output
 
-![Screenshot (66)](https://github.com/user-attachments/assets/18e5f2f6-a845-4f7c-93b1-4e436b296cb5)
+![screenshot maths ](https://github.com/user-attachments/assets/b504900c-4cee-478b-8ce1-e8c4708ababf)
 
 
 ## Result
